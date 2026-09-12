@@ -99,7 +99,9 @@ For customers commuting **more than 10 miles**, the conversion rate dropped to *
 * Dynamic dashboard layout
 
 ---
+## 📊 Dashboard Preview
 
+![Bike Sales Dashboard](bike-sales-dashboard.png)
 ## 📈 Project Outcome
 
 The analysis demonstrates how Excel can be used to transform raw customer data into meaningful business insights.
