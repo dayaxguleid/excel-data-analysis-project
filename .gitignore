@@ -1,0 +1,14 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Excel backup files
+*.xlk
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
